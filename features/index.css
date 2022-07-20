@@ -1,0 +1,52 @@
+#dmain{
+    display: flex;
+    gap:10px;
+}
+#dfilter{
+    width:20%;
+    height:auto;
+    border:1px solid black;
+    gap:10px;
+
+}
+#box{
+
+width: 65%;
+height: auto;
+border: 1px solid red;
+gap:10px;
+}
+
+#box>div{
+  border: 1px solid green;
+}
+
+img{
+    height:200px;
+    width:100%;
+}
+.dimage{
+width: 30%;
+border: 1px solid red;
+}
+.details{
+width:50%;
+border: 1px solid yellow;
+margin-left:4px ;
+}
+.dflex{
+display:flex;
+}
+input{
+height:30px;
+}
+
+
+.material-symbols-outlined {
+font-variation-settings:
+'FILL' 0,
+'wght' 400,
+'GRAD' 0,
+'opsz' 48
+}
+
