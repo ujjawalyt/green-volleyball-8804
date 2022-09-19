@@ -11,6 +11,16 @@ Orbitz.com is a travel fare aggregator website and travel metasearch engine. The
 ## [Orbitz-Hotel-Deals Clone](https://orbitz-clone-v1.netlify.app/)
 
 
+## Features
+
+- SignUp/LogIn
+- Hotel search (based on the city)
+- Sorting and Filtering
+- Map
+- Room Booking
+
+
+
 ## Built with 
 - JavaScript
 - HTML
@@ -25,3 +35,8 @@ Orbitz.com is a travel fare aggregator website and travel metasearch engine. The
 - [@Dhiraj Pandey](https://github.com/DheerajPandey1)
 - [@Muskan Tamrakar](https://github.com/Muskantamrakar)
 - [@Rajan Kumar](https://github.com/raobaba)
+
+
+## Acknowledgements
+
+ - Images ang logos are taken from [Orbitz.com](https://orbitz.com)
