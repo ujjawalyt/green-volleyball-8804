@@ -27,6 +27,8 @@ Orbitz.com is a travel fare aggregator website and travel metasearch engine. The
 - CSS
 - Json-Server
 - Bootstrap
+### Landing-Page:
+![orbitz-clone-v1-netlify-app-1024xFULLdesktop-80710c](https://user-images.githubusercontent.com/87421981/193198633-60b358df-d9cb-4b70-aa8c-452e150e7b81.png)
 
 ## Creators
 
